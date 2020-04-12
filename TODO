@@ -1,0 +1,36 @@
+TODO
+
+create baselines algorithms performance
+ - random action
+ - static time control action
+
+
+
+FUTURE TODO:
+
+- create baselines policies
+
+- create benchmark
+
+- evaluate the two representations on benchmark. 
+    - evaluate on multiple metrics
+        - critical to look at box plots of performance over all cars (not just mean value)
+
+- optional: create regressor from loop detector data
+    - need to have atleast 2 detectors for this, or single bit far from intersection
+
+- create pdf from jupyter notebook
+
+
+
+
+
+
+
+
+
+
+other repos to compare:
+gs: mie1516 project github
+https://github.com/KhawYewmeng/MIE1516-Project-Credit-Card-Fraud-Detection/blob/master/Credit%20Card%20Fraud%20Detection.ipynb
+https://github.com/amol-rao/Blast-Optimization-Project/blob/master/rao_amol_mine_blasting_clustering_V4.ipynb
