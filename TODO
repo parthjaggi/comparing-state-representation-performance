@@ -22,8 +22,10 @@ FUTURE TODO:
 - create pdf from jupyter notebook
 
 
+- one interesting thing to see would be how the queue metric reward changes as the green phase is going on.
 
 
+- incorporate the vehicles inside the network to calculate the travel time metric.
 
 
 
